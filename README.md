@@ -96,7 +96,8 @@ int main()
 
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/80253011-9057-4f0c-91bf-aec5ed57bf81)
+![image](https://github.com/user-attachments/assets/38030fdb-7df0-47ad-9e5f-b635cb7a3314)
+
 
 
 
